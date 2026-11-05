@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Callin HOUNGA
 
-### 💻 Développeur Web Backend | Concepteur de solutions digitales
+### 💻 Développeur Web  | Concepteur de solutions digitales
 
-Je suis **développeur web backend** titulaire d'une Licence professionnelle en **Systèmes Informatiques et Logiciels**, avec **plus de 4 années d'expérience** dans le développement d'applications web et de logiciels de gestion.
+Je suis **développeur web** titulaire d'une Licence professionnelle en **Systèmes Informatiques et Logiciels**, avec **plus de 4 années d'expérience** dans le développement d'applications web et de logiciels de gestion.
 
 Mon objectif n'est pas simplement d'écrire du code : je cherche à **comprendre un besoin métier, concevoir une solution adaptée et la mener jusqu'à sa mise en production**.
 
@@ -14,7 +14,7 @@ Je recherche des opportunités où je peux contribuer à la conception de **solu
 
 - 🔎 **Analyse des besoins** et compréhension des problématiques métier
 - 🧩 **Conception et développement** d'applications web
-- ⚙️ Développement backend et gestion de bases de données
+- ⚙️ Développement web et gestion de bases de données
 - 🌐 Création de sites web professionnels et plateformes e-commerce
 - 🏢 Développement de logiciels et outils de gestion pour les entreprises
 - 🔗 Intégration et évolution de solutions existantes
@@ -32,6 +32,12 @@ J'ai également eu l'occasion de travailler sur des solutions de **gestion de re
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![Bootstrap](https://shields.io)
+![PHP](https://shields.io)
+![WinDev](https://shields.io)
+
 
 ### Bases de données
 
@@ -109,6 +115,7 @@ Au cours de mes expériences, j'ai travaillé sur différents types de projets :
 | Domaine | Solutions |
 |---|---|
 | 🌐 Web | Sites professionnels, applications web |
+| 👨‍💼 RH / Paie | Application web de gestion des ressources humaines |
 | 🛒 E-commerce | Boutiques et plateformes de vente |
 | 👥 CRM | Gestion de la relation client |
 | 💰 Comptabilité | Logiciels de gestion comptable |
