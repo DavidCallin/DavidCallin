@@ -31,12 +31,12 @@ J'ai également eu l'occasion de travailler sur des solutions de **gestion de re
 ### Web
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![Bootstrap](https://shields.io)
-![PHP](https://shields.io)
-![WinDev](https://shields.io)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![WinDev](https://img.shields.io/badge/WinDev-0078D4?style=flat-square)
 
 
 ### Bases de données
